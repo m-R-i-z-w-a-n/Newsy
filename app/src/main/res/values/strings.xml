@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Newsy</string>
+    <string name="api_key">MY_KEY</string>
+</resources>
